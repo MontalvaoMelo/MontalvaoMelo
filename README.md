@@ -5,6 +5,7 @@
 
 <!--stats-->
 ![MontalvaoMelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MontalvaoMelo&theme=vision-friendly-dark&show_icons=true)
+<img height="225px" width="510px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontalvaoMelo&layout=compact&langs_count=7&theme=vision-friendly-dark">
 <!--languages-->
 # some technologies i know
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
